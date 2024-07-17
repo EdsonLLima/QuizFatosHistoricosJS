@@ -12,3 +12,5 @@
   - Array.forEach();
   - Uso de funções JavaScript;
 
+### Esse projeto vamos subir o código fonte em 31-07-2024
+
